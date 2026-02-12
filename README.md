@@ -57,6 +57,6 @@ Nous cherchons des profils variés pour explorer la membrane :
 ---
 
 ## ⚡️ Démarrage Rapide
-1. Clonez ce dépôt : `git clone https://github.com/votre-nom/arcane.git`
+1. Clonez ce dépôt : `git clone https://github.com/antoniomyrouf/arcane.git`
 2. Installez les dépendances : `pip install -r requirements.txt`
 3. Branchez votre Arduino et lancez : `python onto_core.py`
